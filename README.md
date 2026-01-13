@@ -14,9 +14,10 @@
 
 ## My favorite tools
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leivasrodrigo&layout=compact&theme=github_dark&border_color=054062" />
-</a>
+[![Top Langs](
+https://github-readme-stats-three-khaki.vercel.app/api/top-langs/?username=Leivasrodrigo&layout=compact
+)](https://github.com/Leivasrodrigo/github-readme-stats)
+
 
 ---
 
@@ -78,6 +79,6 @@
 
 ## My stats
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leivasrodrigo&count_private=true&show_icons=true&theme=github_dark&border_color=054062" />
-</a>
+![GitHub Stats](
+https://github-readme-stats-three-khaki.vercel.app/api?username=Leivasrodrigo&show_icons=true
+)
